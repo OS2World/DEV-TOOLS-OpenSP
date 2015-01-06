@@ -1,0 +1,219 @@
+Lpd.lo Lpd.o: Lpd.cxx splib.h ../config.h ../include/Lpd.h \
+  ../include/Attribute.h M:/dev/gcc/v3.2.2/usr/include/stddef.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/cdefs.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/gnu/cdefs.h \
+  M:/dev/gcc/v3.2.2/usr/include/features.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/_types.h \
+  M:/dev/gcc/v3.2.2/usr/include/machine/_types.h \
+  M:/dev/gcc/v3.2.2/usr/include/386/_types.h ../include/Resource.h \
+  ../include/Owner.h ../include/Owner.cxx ../include/StringC.h \
+  ../include/types.h M:/dev/gcc/v3.2.2/usr/include/limits.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/limits.h \
+  M:/dev/gcc/v3.2.2/usr/include/machine/_limits.h \
+  M:/dev/gcc/v3.2.2/usr/include/386/_limits.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/syslimits.h ../include/StringOf.h \
+  M:/dev/gcc/v3.2.2/usr/include/string.h \
+  M:/dev/gcc/v3.2.2/usr/include/strings.h ../include/Boolean.h \
+  ../include/StringOf.cxx ../include/Vector.h ../include/xnew.h \
+  M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/new \
+  M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/cstddef \
+  M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/exception ../include/Vector.cxx \
+  ../include/CopyOwner.h ../include/CopyOwner.cxx ../include/Text.h \
+  ../include/Location.h ../include/Ptr.h ../include/Ptr.cxx \
+  ../include/rtti.h ../include/SubstTable.h ../include/Message.h \
+  ../include/MessageArg.h ../include/Named.h ../include/NamedTable.h \
+  ../include/Hash.h ../include/OwnerTable.h ../include/PointerTable.h \
+  ../include/PointerTable.cxx M:/dev/gcc/v3.2.2/usr/include/stdlib.h \
+  M:/dev/gcc/v3.2.2/usr/include/malloc.h ../include/OwnerTable.cxx \
+  ../include/Syntax.h ../include/ISet.h ../include/ISet.cxx \
+  ../include/HashTable.h ../include/HashTableItemBase.h \
+  ../include/HashTableItemBase.cxx ../include/HashTable.cxx \
+  ../include/XcharMap.h ../include/constant.h ../include/CharMap.h \
+  ../include/CharMap.cxx ../include/XcharMap.cxx \
+  ../include/EntityCatalog.h ../include/Dtd.h \
+  ../include/NamedResourceTable.h ../include/NamedResource.h \
+  ../include/ElementType.h ../include/Attributed.h ../include/Mode.h \
+  ../include/ContentToken.h ../include/NCVector.h ../include/Notation.h \
+  ../include/ExternalId.h ../include/StringResource.h \
+  ../include/EntityDecl.h ../include/Entity.h ../include/Allocator.h \
+  ../include/Markup.h ../include/Sd.h ../include/CharsetInfo.h \
+  ../include/UnivCharsetDesc.h ../include/RangeMap.h \
+  ../include/RangeMap.cxx ../include/CharsetDecl.h \
+  ../include/EntityManager.h ../include/SdText.h \
+  ../include/ShortReferenceMap.h
+
+splib.h:
+
+../config.h:
+
+../include/Lpd.h:
+
+../include/Attribute.h:
+
+M:/dev/gcc/v3.2.2/usr/include/stddef.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/cdefs.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/gnu/cdefs.h:
+
+M:/dev/gcc/v3.2.2/usr/include/features.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/_types.h:
+
+M:/dev/gcc/v3.2.2/usr/include/machine/_types.h:
+
+M:/dev/gcc/v3.2.2/usr/include/386/_types.h:
+
+../include/Resource.h:
+
+../include/Owner.h:
+
+../include/Owner.cxx:
+
+../include/StringC.h:
+
+../include/types.h:
+
+M:/dev/gcc/v3.2.2/usr/include/limits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/limits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/machine/_limits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/386/_limits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/syslimits.h:
+
+../include/StringOf.h:
+
+M:/dev/gcc/v3.2.2/usr/include/string.h:
+
+M:/dev/gcc/v3.2.2/usr/include/strings.h:
+
+../include/Boolean.h:
+
+../include/StringOf.cxx:
+
+../include/Vector.h:
+
+../include/xnew.h:
+
+M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/new:
+
+M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/cstddef:
+
+M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/exception:
+
+../include/Vector.cxx:
+
+../include/CopyOwner.h:
+
+../include/CopyOwner.cxx:
+
+../include/Text.h:
+
+../include/Location.h:
+
+../include/Ptr.h:
+
+../include/Ptr.cxx:
+
+../include/rtti.h:
+
+../include/SubstTable.h:
+
+../include/Message.h:
+
+../include/MessageArg.h:
+
+../include/Named.h:
+
+../include/NamedTable.h:
+
+../include/Hash.h:
+
+../include/OwnerTable.h:
+
+../include/PointerTable.h:
+
+../include/PointerTable.cxx:
+
+M:/dev/gcc/v3.2.2/usr/include/stdlib.h:
+
+M:/dev/gcc/v3.2.2/usr/include/malloc.h:
+
+../include/OwnerTable.cxx:
+
+../include/Syntax.h:
+
+../include/ISet.h:
+
+../include/ISet.cxx:
+
+../include/HashTable.h:
+
+../include/HashTableItemBase.h:
+
+../include/HashTableItemBase.cxx:
+
+../include/HashTable.cxx:
+
+../include/XcharMap.h:
+
+../include/constant.h:
+
+../include/CharMap.h:
+
+../include/CharMap.cxx:
+
+../include/XcharMap.cxx:
+
+../include/EntityCatalog.h:
+
+../include/Dtd.h:
+
+../include/NamedResourceTable.h:
+
+../include/NamedResource.h:
+
+../include/ElementType.h:
+
+../include/Attributed.h:
+
+../include/Mode.h:
+
+../include/ContentToken.h:
+
+../include/NCVector.h:
+
+../include/Notation.h:
+
+../include/ExternalId.h:
+
+../include/StringResource.h:
+
+../include/EntityDecl.h:
+
+../include/Entity.h:
+
+../include/Allocator.h:
+
+../include/Markup.h:
+
+../include/Sd.h:
+
+../include/CharsetInfo.h:
+
+../include/UnivCharsetDesc.h:
+
+../include/RangeMap.h:
+
+../include/RangeMap.cxx:
+
+../include/CharsetDecl.h:
+
+../include/EntityManager.h:
+
+../include/SdText.h:
+
+../include/ShortReferenceMap.h:

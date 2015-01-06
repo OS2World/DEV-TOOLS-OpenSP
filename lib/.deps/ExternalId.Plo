@@ -1,0 +1,144 @@
+ExternalId.lo ExternalId.o: ExternalId.cxx splib.h ../config.h \
+  ../include/ExternalId.h ../include/Boolean.h ../include/StringC.h \
+  ../include/types.h M:/dev/gcc/v3.2.2/usr/include/limits.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/cdefs.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/gnu/cdefs.h \
+  M:/dev/gcc/v3.2.2/usr/include/features.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/limits.h \
+  M:/dev/gcc/v3.2.2/usr/include/machine/_limits.h \
+  M:/dev/gcc/v3.2.2/usr/include/386/_limits.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/syslimits.h \
+  M:/dev/gcc/v3.2.2/usr/include/stddef.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/_types.h \
+  M:/dev/gcc/v3.2.2/usr/include/machine/_types.h \
+  M:/dev/gcc/v3.2.2/usr/include/386/_types.h ../include/StringOf.h \
+  M:/dev/gcc/v3.2.2/usr/include/string.h \
+  M:/dev/gcc/v3.2.2/usr/include/strings.h ../include/StringOf.cxx \
+  ../include/Text.h ../include/Vector.h ../include/xnew.h \
+  M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/new \
+  M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/cstddef \
+  M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/exception ../include/Vector.cxx \
+  ../include/Location.h ../include/Ptr.h ../include/Ptr.cxx \
+  ../include/Resource.h ../include/Owner.h ../include/Owner.cxx \
+  ../include/rtti.h ../include/SubstTable.h ../include/Message.h \
+  ../include/CopyOwner.h ../include/CopyOwner.cxx ../include/MessageArg.h \
+  ../include/CharsetInfo.h ../include/UnivCharsetDesc.h \
+  ../include/CharMap.h ../include/CharMap.cxx ../include/RangeMap.h \
+  ../include/ISet.h ../include/ISet.cxx \
+  M:/dev/gcc/v3.2.2/usr/include/stdlib.h \
+  M:/dev/gcc/v3.2.2/usr/include/malloc.h ../include/RangeMap.cxx \
+  ../include/constant.h ../include/macros.h \
+  M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/cassert \
+  M:/dev/gcc/v3.2.2/usr/include/assert.h ParserMessages.h
+
+splib.h:
+
+../config.h:
+
+../include/ExternalId.h:
+
+../include/Boolean.h:
+
+../include/StringC.h:
+
+../include/types.h:
+
+M:/dev/gcc/v3.2.2/usr/include/limits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/cdefs.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/gnu/cdefs.h:
+
+M:/dev/gcc/v3.2.2/usr/include/features.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/limits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/machine/_limits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/386/_limits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/syslimits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/stddef.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/_types.h:
+
+M:/dev/gcc/v3.2.2/usr/include/machine/_types.h:
+
+M:/dev/gcc/v3.2.2/usr/include/386/_types.h:
+
+../include/StringOf.h:
+
+M:/dev/gcc/v3.2.2/usr/include/string.h:
+
+M:/dev/gcc/v3.2.2/usr/include/strings.h:
+
+../include/StringOf.cxx:
+
+../include/Text.h:
+
+../include/Vector.h:
+
+../include/xnew.h:
+
+M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/new:
+
+M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/cstddef:
+
+M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/exception:
+
+../include/Vector.cxx:
+
+../include/Location.h:
+
+../include/Ptr.h:
+
+../include/Ptr.cxx:
+
+../include/Resource.h:
+
+../include/Owner.h:
+
+../include/Owner.cxx:
+
+../include/rtti.h:
+
+../include/SubstTable.h:
+
+../include/Message.h:
+
+../include/CopyOwner.h:
+
+../include/CopyOwner.cxx:
+
+../include/MessageArg.h:
+
+../include/CharsetInfo.h:
+
+../include/UnivCharsetDesc.h:
+
+../include/CharMap.h:
+
+../include/CharMap.cxx:
+
+../include/RangeMap.h:
+
+../include/ISet.h:
+
+../include/ISet.cxx:
+
+M:/dev/gcc/v3.2.2/usr/include/stdlib.h:
+
+M:/dev/gcc/v3.2.2/usr/include/malloc.h:
+
+../include/RangeMap.cxx:
+
+../include/constant.h:
+
+../include/macros.h:
+
+M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/cassert:
+
+M:/dev/gcc/v3.2.2/usr/include/assert.h:
+
+ParserMessages.h:

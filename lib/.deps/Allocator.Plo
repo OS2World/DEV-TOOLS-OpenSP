@@ -1,0 +1,36 @@
+Allocator.lo Allocator.o: Allocator.cxx splib.h ../config.h \
+  ../include/Allocator.h M:/dev/gcc/v3.2.2/usr/include/stddef.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/cdefs.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/gnu/cdefs.h \
+  M:/dev/gcc/v3.2.2/usr/include/features.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/_types.h \
+  M:/dev/gcc/v3.2.2/usr/include/machine/_types.h \
+  M:/dev/gcc/v3.2.2/usr/include/386/_types.h ../include/macros.h \
+  M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/cassert \
+  M:/dev/gcc/v3.2.2/usr/include/assert.h
+
+splib.h:
+
+../config.h:
+
+../include/Allocator.h:
+
+M:/dev/gcc/v3.2.2/usr/include/stddef.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/cdefs.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/gnu/cdefs.h:
+
+M:/dev/gcc/v3.2.2/usr/include/features.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/_types.h:
+
+M:/dev/gcc/v3.2.2/usr/include/machine/_types.h:
+
+M:/dev/gcc/v3.2.2/usr/include/386/_types.h:
+
+../include/macros.h:
+
+M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/cassert:
+
+M:/dev/gcc/v3.2.2/usr/include/assert.h:

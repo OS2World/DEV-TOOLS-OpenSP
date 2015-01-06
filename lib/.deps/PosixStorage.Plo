@@ -1,0 +1,225 @@
+PosixStorage.lo PosixStorage.o: PosixStorage.cxx splib.h ../config.h \
+  ../include/PosixStorage.h ../include/StorageManager.h \
+  ../include/StringC.h ../include/types.h \
+  M:/dev/gcc/v3.2.2/usr/include/limits.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/cdefs.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/gnu/cdefs.h \
+  M:/dev/gcc/v3.2.2/usr/include/features.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/limits.h \
+  M:/dev/gcc/v3.2.2/usr/include/machine/_limits.h \
+  M:/dev/gcc/v3.2.2/usr/include/386/_limits.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/syslimits.h \
+  M:/dev/gcc/v3.2.2/usr/include/stddef.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/_types.h \
+  M:/dev/gcc/v3.2.2/usr/include/machine/_types.h \
+  M:/dev/gcc/v3.2.2/usr/include/386/_types.h ../include/StringOf.h \
+  M:/dev/gcc/v3.2.2/usr/include/string.h \
+  M:/dev/gcc/v3.2.2/usr/include/strings.h ../include/Boolean.h \
+  ../include/StringOf.cxx ../include/CharsetInfo.h \
+  ../include/UnivCharsetDesc.h ../include/CharMap.h ../include/Resource.h \
+  ../include/CharMap.cxx ../include/RangeMap.h ../include/Vector.h \
+  ../include/xnew.h M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/new \
+  M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/cstddef \
+  M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/exception ../include/Vector.cxx \
+  ../include/ISet.h ../include/ISet.cxx \
+  M:/dev/gcc/v3.2.2/usr/include/stdlib.h \
+  M:/dev/gcc/v3.2.2/usr/include/malloc.h ../include/RangeMap.cxx \
+  ../include/constant.h ../include/DescriptorManager.h ../include/List.h \
+  ../include/IList.h ../include/IListBase.h ../include/Link.h \
+  ../include/List.cxx ../include/IListIter.h ../include/IListIterBase.h \
+  ../include/RewindStorageObject.h ../include/MessageArg.h \
+  ../include/rtti.h ../include/ErrnoMessageArg.h \
+  ../include/SearchResultMessageArg.h ../include/Message.h \
+  ../include/Location.h ../include/Ptr.h ../include/Ptr.cxx \
+  ../include/Owner.h ../include/Owner.cxx ../include/CopyOwner.h \
+  ../include/CopyOwner.cxx ../include/CodingSystem.h \
+  ../include/OutputByteStream.h ../include/macros.h \
+  M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/cassert \
+  M:/dev/gcc/v3.2.2/usr/include/assert.h PosixStorageMessages.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/types.h \
+  M:/dev/gcc/v3.2.2/usr/include/machine/endian.h \
+  M:/dev/gcc/v3.2.2/usr/include/386/endian.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/select.h \
+  M:/dev/gcc/v3.2.2/usr/include/stdio.h \
+  M:/dev/gcc/v3.2.2/usr/include/ctype.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/locale.h \
+  M:/dev/gcc/v3.2.2/usr/include/unistd.h \
+  M:/dev/gcc/v3.2.2/usr/include/fcntl.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/fcntl.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/stat.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/time.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/_timeval.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/timespec.h \
+  M:/dev/gcc/v3.2.2/usr/include/time.h \
+  M:/dev/gcc/v3.2.2/usr/include/errno.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/errno.h
+
+splib.h:
+
+../config.h:
+
+../include/PosixStorage.h:
+
+../include/StorageManager.h:
+
+../include/StringC.h:
+
+../include/types.h:
+
+M:/dev/gcc/v3.2.2/usr/include/limits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/cdefs.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/gnu/cdefs.h:
+
+M:/dev/gcc/v3.2.2/usr/include/features.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/limits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/machine/_limits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/386/_limits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/syslimits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/stddef.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/_types.h:
+
+M:/dev/gcc/v3.2.2/usr/include/machine/_types.h:
+
+M:/dev/gcc/v3.2.2/usr/include/386/_types.h:
+
+../include/StringOf.h:
+
+M:/dev/gcc/v3.2.2/usr/include/string.h:
+
+M:/dev/gcc/v3.2.2/usr/include/strings.h:
+
+../include/Boolean.h:
+
+../include/StringOf.cxx:
+
+../include/CharsetInfo.h:
+
+../include/UnivCharsetDesc.h:
+
+../include/CharMap.h:
+
+../include/Resource.h:
+
+../include/CharMap.cxx:
+
+../include/RangeMap.h:
+
+../include/Vector.h:
+
+../include/xnew.h:
+
+M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/new:
+
+M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/cstddef:
+
+M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/exception:
+
+../include/Vector.cxx:
+
+../include/ISet.h:
+
+../include/ISet.cxx:
+
+M:/dev/gcc/v3.2.2/usr/include/stdlib.h:
+
+M:/dev/gcc/v3.2.2/usr/include/malloc.h:
+
+../include/RangeMap.cxx:
+
+../include/constant.h:
+
+../include/DescriptorManager.h:
+
+../include/List.h:
+
+../include/IList.h:
+
+../include/IListBase.h:
+
+../include/Link.h:
+
+../include/List.cxx:
+
+../include/IListIter.h:
+
+../include/IListIterBase.h:
+
+../include/RewindStorageObject.h:
+
+../include/MessageArg.h:
+
+../include/rtti.h:
+
+../include/ErrnoMessageArg.h:
+
+../include/SearchResultMessageArg.h:
+
+../include/Message.h:
+
+../include/Location.h:
+
+../include/Ptr.h:
+
+../include/Ptr.cxx:
+
+../include/Owner.h:
+
+../include/Owner.cxx:
+
+../include/CopyOwner.h:
+
+../include/CopyOwner.cxx:
+
+../include/CodingSystem.h:
+
+../include/OutputByteStream.h:
+
+../include/macros.h:
+
+M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/cassert:
+
+M:/dev/gcc/v3.2.2/usr/include/assert.h:
+
+PosixStorageMessages.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/types.h:
+
+M:/dev/gcc/v3.2.2/usr/include/machine/endian.h:
+
+M:/dev/gcc/v3.2.2/usr/include/386/endian.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/select.h:
+
+M:/dev/gcc/v3.2.2/usr/include/stdio.h:
+
+M:/dev/gcc/v3.2.2/usr/include/ctype.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/locale.h:
+
+M:/dev/gcc/v3.2.2/usr/include/unistd.h:
+
+M:/dev/gcc/v3.2.2/usr/include/fcntl.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/fcntl.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/stat.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/time.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/_timeval.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/timespec.h:
+
+M:/dev/gcc/v3.2.2/usr/include/time.h:
+
+M:/dev/gcc/v3.2.2/usr/include/errno.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/errno.h:

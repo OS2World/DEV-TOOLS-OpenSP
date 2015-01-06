@@ -1,0 +1,82 @@
+SubstTable.lo SubstTable.o: SubstTable.cxx splib.h ../config.h \
+  ../include/SubstTable.h ../include/types.h \
+  M:/dev/gcc/v3.2.2/usr/include/limits.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/cdefs.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/gnu/cdefs.h \
+  M:/dev/gcc/v3.2.2/usr/include/features.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/limits.h \
+  M:/dev/gcc/v3.2.2/usr/include/machine/_limits.h \
+  M:/dev/gcc/v3.2.2/usr/include/386/_limits.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/syslimits.h \
+  M:/dev/gcc/v3.2.2/usr/include/stddef.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/_types.h \
+  M:/dev/gcc/v3.2.2/usr/include/machine/_types.h \
+  M:/dev/gcc/v3.2.2/usr/include/386/_types.h ../include/StringC.h \
+  ../include/StringOf.h M:/dev/gcc/v3.2.2/usr/include/string.h \
+  M:/dev/gcc/v3.2.2/usr/include/strings.h ../include/Boolean.h \
+  ../include/StringOf.cxx ../include/Vector.h ../include/xnew.h \
+  M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/new \
+  M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/cstddef \
+  M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/exception ../include/Vector.cxx \
+  M:/dev/gcc/v3.2.2/usr/include/stdlib.h \
+  M:/dev/gcc/v3.2.2/usr/include/malloc.h
+
+splib.h:
+
+../config.h:
+
+../include/SubstTable.h:
+
+../include/types.h:
+
+M:/dev/gcc/v3.2.2/usr/include/limits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/cdefs.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/gnu/cdefs.h:
+
+M:/dev/gcc/v3.2.2/usr/include/features.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/limits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/machine/_limits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/386/_limits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/syslimits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/stddef.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/_types.h:
+
+M:/dev/gcc/v3.2.2/usr/include/machine/_types.h:
+
+M:/dev/gcc/v3.2.2/usr/include/386/_types.h:
+
+../include/StringC.h:
+
+../include/StringOf.h:
+
+M:/dev/gcc/v3.2.2/usr/include/string.h:
+
+M:/dev/gcc/v3.2.2/usr/include/strings.h:
+
+../include/Boolean.h:
+
+../include/StringOf.cxx:
+
+../include/Vector.h:
+
+../include/xnew.h:
+
+M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/new:
+
+M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/cstddef:
+
+M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/exception:
+
+../include/Vector.cxx:
+
+M:/dev/gcc/v3.2.2/usr/include/stdlib.h:
+
+M:/dev/gcc/v3.2.2/usr/include/malloc.h:

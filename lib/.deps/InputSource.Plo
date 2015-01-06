@@ -1,0 +1,109 @@
+InputSource.lo InputSource.o: InputSource.cxx splib.h ../config.h \
+  ../include/InputSource.h ../include/types.h \
+  M:/dev/gcc/v3.2.2/usr/include/limits.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/cdefs.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/gnu/cdefs.h \
+  M:/dev/gcc/v3.2.2/usr/include/features.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/limits.h \
+  M:/dev/gcc/v3.2.2/usr/include/machine/_limits.h \
+  M:/dev/gcc/v3.2.2/usr/include/386/_limits.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/syslimits.h \
+  M:/dev/gcc/v3.2.2/usr/include/stddef.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/_types.h \
+  M:/dev/gcc/v3.2.2/usr/include/machine/_types.h \
+  M:/dev/gcc/v3.2.2/usr/include/386/_types.h ../include/Link.h \
+  ../include/Ptr.h ../include/Boolean.h ../include/Ptr.cxx \
+  ../include/Location.h ../include/Resource.h ../include/Vector.h \
+  ../include/xnew.h M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/new \
+  M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/cstddef \
+  M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/exception ../include/Vector.cxx \
+  M:/dev/gcc/v3.2.2/usr/include/string.h \
+  M:/dev/gcc/v3.2.2/usr/include/strings.h ../include/Owner.h \
+  ../include/Owner.cxx ../include/StringC.h ../include/StringOf.h \
+  ../include/StringOf.cxx ../include/rtti.h ../include/XcharMap.h \
+  ../include/constant.h ../include/CharMap.h ../include/CharMap.cxx \
+  ../include/XcharMap.cxx MarkupScan.h
+
+splib.h:
+
+../config.h:
+
+../include/InputSource.h:
+
+../include/types.h:
+
+M:/dev/gcc/v3.2.2/usr/include/limits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/cdefs.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/gnu/cdefs.h:
+
+M:/dev/gcc/v3.2.2/usr/include/features.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/limits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/machine/_limits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/386/_limits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/syslimits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/stddef.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/_types.h:
+
+M:/dev/gcc/v3.2.2/usr/include/machine/_types.h:
+
+M:/dev/gcc/v3.2.2/usr/include/386/_types.h:
+
+../include/Link.h:
+
+../include/Ptr.h:
+
+../include/Boolean.h:
+
+../include/Ptr.cxx:
+
+../include/Location.h:
+
+../include/Resource.h:
+
+../include/Vector.h:
+
+../include/xnew.h:
+
+M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/new:
+
+M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/cstddef:
+
+M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/exception:
+
+../include/Vector.cxx:
+
+M:/dev/gcc/v3.2.2/usr/include/string.h:
+
+M:/dev/gcc/v3.2.2/usr/include/strings.h:
+
+../include/Owner.h:
+
+../include/Owner.cxx:
+
+../include/StringC.h:
+
+../include/StringOf.h:
+
+../include/StringOf.cxx:
+
+../include/rtti.h:
+
+../include/XcharMap.h:
+
+../include/constant.h:
+
+../include/CharMap.h:
+
+../include/CharMap.cxx:
+
+../include/XcharMap.cxx:
+
+MarkupScan.h:

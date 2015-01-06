@@ -1,0 +1,84 @@
+OutputCharStream.lo OutputCharStream.o: OutputCharStream.cxx splib.h \
+  ../config.h ../include/OutputCharStream.h ../include/types.h \
+  M:/dev/gcc/v3.2.2/usr/include/limits.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/cdefs.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/gnu/cdefs.h \
+  M:/dev/gcc/v3.2.2/usr/include/features.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/limits.h \
+  M:/dev/gcc/v3.2.2/usr/include/machine/_limits.h \
+  M:/dev/gcc/v3.2.2/usr/include/386/_limits.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/syslimits.h \
+  M:/dev/gcc/v3.2.2/usr/include/stddef.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/_types.h \
+  M:/dev/gcc/v3.2.2/usr/include/machine/_types.h \
+  M:/dev/gcc/v3.2.2/usr/include/386/_types.h ../include/Link.h \
+  ../include/StringC.h ../include/StringOf.h \
+  M:/dev/gcc/v3.2.2/usr/include/string.h \
+  M:/dev/gcc/v3.2.2/usr/include/strings.h ../include/Boolean.h \
+  ../include/StringOf.cxx ../include/Owner.h ../include/Owner.cxx \
+  ../include/CodingSystem.h ../include/OutputByteStream.h \
+  ../include/macros.h M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/cassert \
+  M:/dev/gcc/v3.2.2/usr/include/assert.h \
+  M:/dev/gcc/v3.2.2/usr/include/stdio.h
+
+splib.h:
+
+../config.h:
+
+../include/OutputCharStream.h:
+
+../include/types.h:
+
+M:/dev/gcc/v3.2.2/usr/include/limits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/cdefs.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/gnu/cdefs.h:
+
+M:/dev/gcc/v3.2.2/usr/include/features.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/limits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/machine/_limits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/386/_limits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/syslimits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/stddef.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/_types.h:
+
+M:/dev/gcc/v3.2.2/usr/include/machine/_types.h:
+
+M:/dev/gcc/v3.2.2/usr/include/386/_types.h:
+
+../include/Link.h:
+
+../include/StringC.h:
+
+../include/StringOf.h:
+
+M:/dev/gcc/v3.2.2/usr/include/string.h:
+
+M:/dev/gcc/v3.2.2/usr/include/strings.h:
+
+../include/Boolean.h:
+
+../include/StringOf.cxx:
+
+../include/Owner.h:
+
+../include/Owner.cxx:
+
+../include/CodingSystem.h:
+
+../include/OutputByteStream.h:
+
+../include/macros.h:
+
+M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/cassert:
+
+M:/dev/gcc/v3.2.2/usr/include/assert.h:
+
+M:/dev/gcc/v3.2.2/usr/include/stdio.h:

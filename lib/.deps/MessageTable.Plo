@@ -1,0 +1,121 @@
+MessageTable.lo MessageTable.o: MessageTable.cxx splib.h ../config.h \
+  ../include/MessageTable.h ../include/Message.h \
+  M:/dev/gcc/v3.2.2/usr/include/stddef.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/cdefs.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/gnu/cdefs.h \
+  M:/dev/gcc/v3.2.2/usr/include/features.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/_types.h \
+  M:/dev/gcc/v3.2.2/usr/include/machine/_types.h \
+  M:/dev/gcc/v3.2.2/usr/include/386/_types.h ../include/Location.h \
+  ../include/types.h M:/dev/gcc/v3.2.2/usr/include/limits.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/limits.h \
+  M:/dev/gcc/v3.2.2/usr/include/machine/_limits.h \
+  M:/dev/gcc/v3.2.2/usr/include/386/_limits.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/syslimits.h ../include/Boolean.h \
+  ../include/Ptr.h ../include/Ptr.cxx ../include/Resource.h \
+  ../include/Vector.h ../include/xnew.h \
+  M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/new \
+  M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/cstddef \
+  M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/exception ../include/Vector.cxx \
+  M:/dev/gcc/v3.2.2/usr/include/string.h \
+  M:/dev/gcc/v3.2.2/usr/include/strings.h ../include/Owner.h \
+  ../include/Owner.cxx ../include/StringC.h ../include/StringOf.h \
+  ../include/StringOf.cxx ../include/rtti.h ../include/CopyOwner.h \
+  ../include/CopyOwner.cxx ../include/MessageArg.h ../include/sptchar.h \
+  M:/dev/gcc/v3.2.2/usr/include/stdlib.h \
+  M:/dev/gcc/v3.2.2/usr/include/malloc.h \
+  M:/dev/gcc/v3.2.2/usr/include/stdio.h \
+  M:/dev/gcc/v3.2.2/usr/include/ctype.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/locale.h ../include/MessageModule.h
+
+splib.h:
+
+../config.h:
+
+../include/MessageTable.h:
+
+../include/Message.h:
+
+M:/dev/gcc/v3.2.2/usr/include/stddef.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/cdefs.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/gnu/cdefs.h:
+
+M:/dev/gcc/v3.2.2/usr/include/features.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/_types.h:
+
+M:/dev/gcc/v3.2.2/usr/include/machine/_types.h:
+
+M:/dev/gcc/v3.2.2/usr/include/386/_types.h:
+
+../include/Location.h:
+
+../include/types.h:
+
+M:/dev/gcc/v3.2.2/usr/include/limits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/limits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/machine/_limits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/386/_limits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/syslimits.h:
+
+../include/Boolean.h:
+
+../include/Ptr.h:
+
+../include/Ptr.cxx:
+
+../include/Resource.h:
+
+../include/Vector.h:
+
+../include/xnew.h:
+
+M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/new:
+
+M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/cstddef:
+
+M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/exception:
+
+../include/Vector.cxx:
+
+M:/dev/gcc/v3.2.2/usr/include/string.h:
+
+M:/dev/gcc/v3.2.2/usr/include/strings.h:
+
+../include/Owner.h:
+
+../include/Owner.cxx:
+
+../include/StringC.h:
+
+../include/StringOf.h:
+
+../include/StringOf.cxx:
+
+../include/rtti.h:
+
+../include/CopyOwner.h:
+
+../include/CopyOwner.cxx:
+
+../include/MessageArg.h:
+
+../include/sptchar.h:
+
+M:/dev/gcc/v3.2.2/usr/include/stdlib.h:
+
+M:/dev/gcc/v3.2.2/usr/include/malloc.h:
+
+M:/dev/gcc/v3.2.2/usr/include/stdio.h:
+
+M:/dev/gcc/v3.2.2/usr/include/ctype.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/locale.h:
+
+../include/MessageModule.h:

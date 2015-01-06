@@ -1,0 +1,5 @@
+assert.lo assert.o: assert.cxx splib.h ../config.h
+
+splib.h:
+
+../config.h:

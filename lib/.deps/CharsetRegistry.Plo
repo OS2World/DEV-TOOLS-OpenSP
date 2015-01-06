@@ -1,0 +1,149 @@
+CharsetRegistry.lo CharsetRegistry.o: CharsetRegistry.cxx splib.h \
+  ../config.h ../include/CharsetRegistry.h ../include/Boolean.h \
+  ../include/types.h M:/dev/gcc/v3.2.2/usr/include/limits.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/cdefs.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/gnu/cdefs.h \
+  M:/dev/gcc/v3.2.2/usr/include/features.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/limits.h \
+  M:/dev/gcc/v3.2.2/usr/include/machine/_limits.h \
+  M:/dev/gcc/v3.2.2/usr/include/386/_limits.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/syslimits.h \
+  M:/dev/gcc/v3.2.2/usr/include/stddef.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/_types.h \
+  M:/dev/gcc/v3.2.2/usr/include/machine/_types.h \
+  M:/dev/gcc/v3.2.2/usr/include/386/_types.h ../include/StringC.h \
+  ../include/StringOf.h M:/dev/gcc/v3.2.2/usr/include/string.h \
+  M:/dev/gcc/v3.2.2/usr/include/strings.h ../include/StringOf.cxx \
+  ../include/CharsetInfo.h ../include/UnivCharsetDesc.h \
+  ../include/CharMap.h ../include/Resource.h ../include/CharMap.cxx \
+  ../include/RangeMap.h ../include/Vector.h ../include/xnew.h \
+  M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/new \
+  M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/cstddef \
+  M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/exception ../include/Vector.cxx \
+  ../include/ISet.h ../include/ISet.cxx \
+  M:/dev/gcc/v3.2.2/usr/include/stdlib.h \
+  M:/dev/gcc/v3.2.2/usr/include/malloc.h ../include/RangeMap.cxx \
+  ../include/constant.h ../include/macros.h \
+  M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/cassert \
+  M:/dev/gcc/v3.2.2/usr/include/assert.h iso8859-2.h iso8859-3.h \
+  iso8859-4.h iso8859-5.h iso8859-6.h iso8859-7.h iso8859-8.h iso8859-9.h \
+  koi8-r.h iso646-jis.h jis0201.h jis0208.h jis0212.h gb2312.h ksc5601.h \
+  big5.h
+
+splib.h:
+
+../config.h:
+
+../include/CharsetRegistry.h:
+
+../include/Boolean.h:
+
+../include/types.h:
+
+M:/dev/gcc/v3.2.2/usr/include/limits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/cdefs.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/gnu/cdefs.h:
+
+M:/dev/gcc/v3.2.2/usr/include/features.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/limits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/machine/_limits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/386/_limits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/syslimits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/stddef.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/_types.h:
+
+M:/dev/gcc/v3.2.2/usr/include/machine/_types.h:
+
+M:/dev/gcc/v3.2.2/usr/include/386/_types.h:
+
+../include/StringC.h:
+
+../include/StringOf.h:
+
+M:/dev/gcc/v3.2.2/usr/include/string.h:
+
+M:/dev/gcc/v3.2.2/usr/include/strings.h:
+
+../include/StringOf.cxx:
+
+../include/CharsetInfo.h:
+
+../include/UnivCharsetDesc.h:
+
+../include/CharMap.h:
+
+../include/Resource.h:
+
+../include/CharMap.cxx:
+
+../include/RangeMap.h:
+
+../include/Vector.h:
+
+../include/xnew.h:
+
+M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/new:
+
+M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/cstddef:
+
+M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/exception:
+
+../include/Vector.cxx:
+
+../include/ISet.h:
+
+../include/ISet.cxx:
+
+M:/dev/gcc/v3.2.2/usr/include/stdlib.h:
+
+M:/dev/gcc/v3.2.2/usr/include/malloc.h:
+
+../include/RangeMap.cxx:
+
+../include/constant.h:
+
+../include/macros.h:
+
+M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/cassert:
+
+M:/dev/gcc/v3.2.2/usr/include/assert.h:
+
+iso8859-2.h:
+
+iso8859-3.h:
+
+iso8859-4.h:
+
+iso8859-5.h:
+
+iso8859-6.h:
+
+iso8859-7.h:
+
+iso8859-8.h:
+
+iso8859-9.h:
+
+koi8-r.h:
+
+iso646-jis.h:
+
+jis0201.h:
+
+jis0208.h:
+
+jis0212.h:
+
+gb2312.h:
+
+ksc5601.h:
+
+big5.h:

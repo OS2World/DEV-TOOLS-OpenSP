@@ -1,0 +1,277 @@
+SgmlParser.lo SgmlParser.o: SgmlParser.cxx splib.h ../config.h \
+  ../include/SgmlParser.h ../include/StringC.h ../include/types.h \
+  M:/dev/gcc/v3.2.2/usr/include/limits.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/cdefs.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/gnu/cdefs.h \
+  M:/dev/gcc/v3.2.2/usr/include/features.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/limits.h \
+  M:/dev/gcc/v3.2.2/usr/include/machine/_limits.h \
+  M:/dev/gcc/v3.2.2/usr/include/386/_limits.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/syslimits.h \
+  M:/dev/gcc/v3.2.2/usr/include/stddef.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/_types.h \
+  M:/dev/gcc/v3.2.2/usr/include/machine/_types.h \
+  M:/dev/gcc/v3.2.2/usr/include/386/_types.h ../include/StringOf.h \
+  M:/dev/gcc/v3.2.2/usr/include/string.h \
+  M:/dev/gcc/v3.2.2/usr/include/strings.h ../include/Boolean.h \
+  ../include/StringOf.cxx ../include/Ptr.h ../include/Ptr.cxx \
+  ../include/Location.h ../include/Resource.h ../include/Vector.h \
+  ../include/xnew.h M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/new \
+  M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/cstddef \
+  M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/exception ../include/Vector.cxx \
+  ../include/Owner.h ../include/Owner.cxx ../include/rtti.h \
+  ../include/EntityManager.h ../include/EntityCatalog.h \
+  ../include/SubstTable.h M:/dev/gcc/v3.2.2/usr/include/signal.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/signal.h Parser.h \
+  ../include/Attribute.h ../include/CopyOwner.h ../include/CopyOwner.cxx \
+  ../include/Text.h ../include/Message.h ../include/MessageArg.h \
+  ../include/Attributed.h ../include/ElementType.h ../include/Named.h \
+  ../include/Mode.h ../include/ContentToken.h ../include/NCVector.h \
+  ../include/Entity.h ../include/NamedResource.h ../include/ExternalId.h \
+  ../include/StringResource.h ../include/Allocator.h \
+  ../include/EntityDecl.h ../include/Markup.h ../include/Syntax.h \
+  ../include/ISet.h ../include/ISet.cxx \
+  M:/dev/gcc/v3.2.2/usr/include/stdlib.h \
+  M:/dev/gcc/v3.2.2/usr/include/malloc.h ../include/HashTable.h \
+  ../include/OwnerTable.h ../include/PointerTable.h \
+  ../include/PointerTable.cxx ../include/OwnerTable.cxx ../include/Hash.h \
+  ../include/HashTableItemBase.h ../include/HashTableItemBase.cxx \
+  ../include/HashTable.cxx ../include/XcharMap.h ../include/constant.h \
+  ../include/CharMap.h ../include/CharMap.cxx ../include/XcharMap.cxx \
+  ../include/Sd.h ../include/CharsetInfo.h ../include/UnivCharsetDesc.h \
+  ../include/RangeMap.h ../include/RangeMap.cxx ../include/CharsetDecl.h \
+  ../include/SdText.h ../include/Event.h ../include/Link.h \
+  ../include/Notation.h ../include/Dtd.h ../include/NamedTable.h \
+  ../include/NamedResourceTable.h ../include/ShortReferenceMap.h \
+  ../include/Lpd.h ../include/IList.h ../include/IListBase.h \
+  ParserState.h EventQueue.h ../include/IQueue.h ../include/IQueue.cxx \
+  events.h Id.h ../include/InputSource.h ../include/OpenElement.h \
+  OutputState.h ../include/EventsWanted.h ../include/ParserOptions.h \
+  Recognizer.h Trie.h Priority.h LpdEntityRef.h ../include/ContentState.h \
+  Undo.h
+
+splib.h:
+
+../config.h:
+
+../include/SgmlParser.h:
+
+../include/StringC.h:
+
+../include/types.h:
+
+M:/dev/gcc/v3.2.2/usr/include/limits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/cdefs.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/gnu/cdefs.h:
+
+M:/dev/gcc/v3.2.2/usr/include/features.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/limits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/machine/_limits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/386/_limits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/syslimits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/stddef.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/_types.h:
+
+M:/dev/gcc/v3.2.2/usr/include/machine/_types.h:
+
+M:/dev/gcc/v3.2.2/usr/include/386/_types.h:
+
+../include/StringOf.h:
+
+M:/dev/gcc/v3.2.2/usr/include/string.h:
+
+M:/dev/gcc/v3.2.2/usr/include/strings.h:
+
+../include/Boolean.h:
+
+../include/StringOf.cxx:
+
+../include/Ptr.h:
+
+../include/Ptr.cxx:
+
+../include/Location.h:
+
+../include/Resource.h:
+
+../include/Vector.h:
+
+../include/xnew.h:
+
+M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/new:
+
+M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/cstddef:
+
+M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/exception:
+
+../include/Vector.cxx:
+
+../include/Owner.h:
+
+../include/Owner.cxx:
+
+../include/rtti.h:
+
+../include/EntityManager.h:
+
+../include/EntityCatalog.h:
+
+../include/SubstTable.h:
+
+M:/dev/gcc/v3.2.2/usr/include/signal.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/signal.h:
+
+Parser.h:
+
+../include/Attribute.h:
+
+../include/CopyOwner.h:
+
+../include/CopyOwner.cxx:
+
+../include/Text.h:
+
+../include/Message.h:
+
+../include/MessageArg.h:
+
+../include/Attributed.h:
+
+../include/ElementType.h:
+
+../include/Named.h:
+
+../include/Mode.h:
+
+../include/ContentToken.h:
+
+../include/NCVector.h:
+
+../include/Entity.h:
+
+../include/NamedResource.h:
+
+../include/ExternalId.h:
+
+../include/StringResource.h:
+
+../include/Allocator.h:
+
+../include/EntityDecl.h:
+
+../include/Markup.h:
+
+../include/Syntax.h:
+
+../include/ISet.h:
+
+../include/ISet.cxx:
+
+M:/dev/gcc/v3.2.2/usr/include/stdlib.h:
+
+M:/dev/gcc/v3.2.2/usr/include/malloc.h:
+
+../include/HashTable.h:
+
+../include/OwnerTable.h:
+
+../include/PointerTable.h:
+
+../include/PointerTable.cxx:
+
+../include/OwnerTable.cxx:
+
+../include/Hash.h:
+
+../include/HashTableItemBase.h:
+
+../include/HashTableItemBase.cxx:
+
+../include/HashTable.cxx:
+
+../include/XcharMap.h:
+
+../include/constant.h:
+
+../include/CharMap.h:
+
+../include/CharMap.cxx:
+
+../include/XcharMap.cxx:
+
+../include/Sd.h:
+
+../include/CharsetInfo.h:
+
+../include/UnivCharsetDesc.h:
+
+../include/RangeMap.h:
+
+../include/RangeMap.cxx:
+
+../include/CharsetDecl.h:
+
+../include/SdText.h:
+
+../include/Event.h:
+
+../include/Link.h:
+
+../include/Notation.h:
+
+../include/Dtd.h:
+
+../include/NamedTable.h:
+
+../include/NamedResourceTable.h:
+
+../include/ShortReferenceMap.h:
+
+../include/Lpd.h:
+
+../include/IList.h:
+
+../include/IListBase.h:
+
+ParserState.h:
+
+EventQueue.h:
+
+../include/IQueue.h:
+
+../include/IQueue.cxx:
+
+events.h:
+
+Id.h:
+
+../include/InputSource.h:
+
+../include/OpenElement.h:
+
+OutputState.h:
+
+../include/EventsWanted.h:
+
+../include/ParserOptions.h:
+
+Recognizer.h:
+
+Trie.h:
+
+Priority.h:
+
+LpdEntityRef.h:
+
+../include/ContentState.h:
+
+Undo.h:

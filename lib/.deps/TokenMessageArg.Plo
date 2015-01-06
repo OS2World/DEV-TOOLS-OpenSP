@@ -1,0 +1,198 @@
+TokenMessageArg.lo TokenMessageArg.o: TokenMessageArg.cxx splib.h \
+  ../config.h TokenMessageArg.h ../include/MessageArg.h \
+  ../include/StringC.h ../include/types.h \
+  M:/dev/gcc/v3.2.2/usr/include/limits.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/cdefs.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/gnu/cdefs.h \
+  M:/dev/gcc/v3.2.2/usr/include/features.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/limits.h \
+  M:/dev/gcc/v3.2.2/usr/include/machine/_limits.h \
+  M:/dev/gcc/v3.2.2/usr/include/386/_limits.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/syslimits.h \
+  M:/dev/gcc/v3.2.2/usr/include/stddef.h \
+  M:/dev/gcc/v3.2.2/usr/include/sys/_types.h \
+  M:/dev/gcc/v3.2.2/usr/include/machine/_types.h \
+  M:/dev/gcc/v3.2.2/usr/include/386/_types.h ../include/StringOf.h \
+  M:/dev/gcc/v3.2.2/usr/include/string.h \
+  M:/dev/gcc/v3.2.2/usr/include/strings.h ../include/Boolean.h \
+  ../include/StringOf.cxx ../include/Vector.h ../include/xnew.h \
+  M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/new \
+  M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/cstddef \
+  M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/exception ../include/Vector.cxx \
+  ../include/rtti.h ../include/Mode.h ../include/Syntax.h \
+  ../include/ISet.h ../include/ISet.cxx \
+  M:/dev/gcc/v3.2.2/usr/include/stdlib.h \
+  M:/dev/gcc/v3.2.2/usr/include/malloc.h ../include/SubstTable.h \
+  ../include/HashTable.h ../include/OwnerTable.h \
+  ../include/PointerTable.h ../include/PointerTable.cxx \
+  ../include/OwnerTable.cxx ../include/Hash.h \
+  ../include/HashTableItemBase.h ../include/HashTableItemBase.cxx \
+  ../include/HashTable.cxx ../include/Resource.h ../include/XcharMap.h \
+  ../include/Ptr.h ../include/Ptr.cxx ../include/constant.h \
+  ../include/CharMap.h ../include/CharMap.cxx ../include/XcharMap.cxx \
+  ../include/EntityCatalog.h ../include/Sd.h ../include/CharsetInfo.h \
+  ../include/UnivCharsetDesc.h ../include/RangeMap.h \
+  ../include/RangeMap.cxx ../include/ExternalId.h ../include/Text.h \
+  ../include/Location.h ../include/Owner.h ../include/Owner.cxx \
+  ../include/Message.h ../include/CopyOwner.h ../include/CopyOwner.cxx \
+  ../include/CharsetDecl.h ../include/EntityManager.h \
+  ../include/MessageBuilder.h token.h ParserMessages.h ModeInfo.h \
+  Priority.h ../include/macros.h \
+  M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/cassert \
+  M:/dev/gcc/v3.2.2/usr/include/assert.h
+
+splib.h:
+
+../config.h:
+
+TokenMessageArg.h:
+
+../include/MessageArg.h:
+
+../include/StringC.h:
+
+../include/types.h:
+
+M:/dev/gcc/v3.2.2/usr/include/limits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/cdefs.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/gnu/cdefs.h:
+
+M:/dev/gcc/v3.2.2/usr/include/features.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/limits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/machine/_limits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/386/_limits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/syslimits.h:
+
+M:/dev/gcc/v3.2.2/usr/include/stddef.h:
+
+M:/dev/gcc/v3.2.2/usr/include/sys/_types.h:
+
+M:/dev/gcc/v3.2.2/usr/include/machine/_types.h:
+
+M:/dev/gcc/v3.2.2/usr/include/386/_types.h:
+
+../include/StringOf.h:
+
+M:/dev/gcc/v3.2.2/usr/include/string.h:
+
+M:/dev/gcc/v3.2.2/usr/include/strings.h:
+
+../include/Boolean.h:
+
+../include/StringOf.cxx:
+
+../include/Vector.h:
+
+../include/xnew.h:
+
+M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/new:
+
+M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/cstddef:
+
+M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/exception:
+
+../include/Vector.cxx:
+
+../include/rtti.h:
+
+../include/Mode.h:
+
+../include/Syntax.h:
+
+../include/ISet.h:
+
+../include/ISet.cxx:
+
+M:/dev/gcc/v3.2.2/usr/include/stdlib.h:
+
+M:/dev/gcc/v3.2.2/usr/include/malloc.h:
+
+../include/SubstTable.h:
+
+../include/HashTable.h:
+
+../include/OwnerTable.h:
+
+../include/PointerTable.h:
+
+../include/PointerTable.cxx:
+
+../include/OwnerTable.cxx:
+
+../include/Hash.h:
+
+../include/HashTableItemBase.h:
+
+../include/HashTableItemBase.cxx:
+
+../include/HashTable.cxx:
+
+../include/Resource.h:
+
+../include/XcharMap.h:
+
+../include/Ptr.h:
+
+../include/Ptr.cxx:
+
+../include/constant.h:
+
+../include/CharMap.h:
+
+../include/CharMap.cxx:
+
+../include/XcharMap.cxx:
+
+../include/EntityCatalog.h:
+
+../include/Sd.h:
+
+../include/CharsetInfo.h:
+
+../include/UnivCharsetDesc.h:
+
+../include/RangeMap.h:
+
+../include/RangeMap.cxx:
+
+../include/ExternalId.h:
+
+../include/Text.h:
+
+../include/Location.h:
+
+../include/Owner.h:
+
+../include/Owner.cxx:
+
+../include/Message.h:
+
+../include/CopyOwner.h:
+
+../include/CopyOwner.cxx:
+
+../include/CharsetDecl.h:
+
+../include/EntityManager.h:
+
+../include/MessageBuilder.h:
+
+token.h:
+
+ParserMessages.h:
+
+ModeInfo.h:
+
+Priority.h:
+
+../include/macros.h:
+
+M:/dev/gcc/v3.2.2/usr/include/c++/3.2.2/cassert:
+
+M:/dev/gcc/v3.2.2/usr/include/assert.h:
